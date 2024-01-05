@@ -18,7 +18,6 @@ import javafx.stage.Stage;
 /**
  * The GUI for Connect Four game. This class encapsulates the View and Controller portions of the MVC architecture.
  *
- * @author  Shreya Pramod    sp3045@rit.edu
  * @author  Disha Revandkar  dr6742@rit.edu
  */
 public class ConnectFourGUI extends Application implements Observer {
