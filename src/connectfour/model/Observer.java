@@ -4,9 +4,6 @@ package connectfour.model;
  * An interface representing any class whose objects get notified when
  * the objects they are observing update them.
  *
- * @param <Subject> the type of object an implementor of this interface
- *                is observing
- * @author RIT CS
  */
 public interface Observer< Subject > {
 
